@@ -1,2 +1,1 @@
-i morreu.
-1
+NADA DE NOVO
