@@ -15,5 +15,5 @@ sudo apt install build-essential -y
 
 node -v
 npm -v
-echo "CORONELMAKER: instalando yarn e pm2"
+echo "SAVIOCOSMO: instalando yarn e pm2"
 sudo npm --force install -g yarn pm2
