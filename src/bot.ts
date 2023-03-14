@@ -164,7 +164,7 @@ export class TreasureMapBot {
          ignoreNumHeroWork = false,
          reportRewards = 0,
          workHeroWithShield = 0,
-         rede = "BSC",
+         rede = "POLYGOM",
          version = VERSION_CODE,
          alertShield = 0,
          alertMaterial = 0,
