@@ -899,7 +899,7 @@ ${resultDb
    }
    async telegramTestMsg(context: Context) {
       await context.replyWithHTML(
-         'if you receive message below "Savio Lindo", it means that your TELEGRAM_CHAT_ID is working, TELEGRAM_CHAT_ID: ' +
+         '"Savio Lindo"' +
             this.bot.params.telegramChatId
       );
 
