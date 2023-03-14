@@ -899,11 +899,11 @@ ${resultDb
    }
    async telegramTestMsg(context: Context) {
       await context.replyWithHTML(
-         'if you receive message below "ARROMBADO", it means that your TELEGRAM_CHAT_ID is working, TELEGRAM_CHAT_ID: ' +
+         'if you receive message below "Savio Lindo", it means that your TELEGRAM_CHAT_ID is working, TELEGRAM_CHAT_ID: ' +
             this.bot.params.telegramChatId
       );
 
-      this.sendMessageChat("ARROMBADO");
+      this.sendMessageChat("teste");
    }
    async telegramStartCalcFarm(context: Context) {
       if (!this.bot.shouldRun || !this.bot.client.isLoggedIn) {
