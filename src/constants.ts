@@ -1,4 +1,4 @@
-export const HOST = "server-sa.bombcrypto.io";
+export const HOST = "https://game.bombcrypto.io";
 export const PORT = 443;
 export const ZONE = "BomberGameZone";
 export const SALT_KEY = "f17e4e44f7bbc229fdc2d2f55728abba";
